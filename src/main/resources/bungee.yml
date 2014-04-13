@@ -1,0 +1,4 @@
+name: BungeeBukkitAnnounce
+main: at.yawk.bungeebukkitannounce.AnnounceBungee
+version: 1.0
+description: BungeeBukkitAnnounce for bungee

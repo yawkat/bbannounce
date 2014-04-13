@@ -1,0 +1,9 @@
+name: BungeeBukkitAnnounce
+main: at.yawk.bungeebukkitannounce.AnnounceBukkit
+version: 1.0
+description: BungeeBukkitAnnounce for bukkit
+commands:
+   bbannounce:
+      description: Broadcast a message via bungee (like alert)
+      usage: /bbannounce <message>
+      permission: bbannounce.announce
